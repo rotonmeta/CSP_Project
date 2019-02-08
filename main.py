@@ -14,7 +14,7 @@ def main():
     # we can choose between: first_unassigned_variable and mrv (minimum remaining values)
     var_sel = first_unassigned_variable
     # level chooses difficulty (higher is more difficult)
-    # level 1 is Easy, level 2 is Medium, level 3 is Hard, level 4 is Evil, level 5 is "Impossible"
+    # level 1 is Easy, level 2 is Medium, level 3 is Hard, level 4 is Evil, level 5 is "Hardest"
     level = 1
 
     for i in range(n_test):
