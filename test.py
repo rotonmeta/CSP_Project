@@ -80,8 +80,5 @@ class Test:
             print("Solution not found! Check the entered puzzle for errors")
         self.bt = sudoku.bt_count
 
-    def display(self):
-        time = round(self.end - self.start, 5)
-        print("Time: " + str(time) + " seconds")
-        print("Num of Back Tracks: " + str(self.bt))
+
 
