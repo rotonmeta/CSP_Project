@@ -25,7 +25,7 @@ def main():
         time.append(round(test.end - test.start, 5))
 
     print("Average time: " + str(round(sum(time) / len(time), 3)))
-    print("Average backtrack: " + str(round(sum(back_track) / len(back_track))))
+    print("Average backtracks: " + str(round(sum(back_track) / len(back_track))))
 
 
 if __name__ == '__main__':
