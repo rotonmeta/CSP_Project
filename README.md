@@ -9,6 +9,7 @@ __Implementation__ of different inference strategies:
 __Comparation__ of the strategies in terms of _time complexity_ and _number of backtracks_. <br />
 __Testing__ on _Sudoku_ game instances.
 
+You can run the application from main.py and you also can change the test parameters from there. <br />
 All the work and results are explained in the PDF paper included in this repository. <br />
 Python 3.6 or later is required to run the application.
 
